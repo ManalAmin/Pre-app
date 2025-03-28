@@ -1,4 +1,5 @@
 import './App.css'
+import Button from './components/button';
 import './index.css';
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
       HELLO WORLD !
     </h1>
         <p>Manal Amin</p>
+        <Button/>
     </>
   )
 }
